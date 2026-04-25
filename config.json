@@ -1,0 +1,20 @@
+{
+  "channel_type": "telegram",
+  "telegram_bot_token": "8787294044:AAEXsscFMdzsaWlsmJLNhgQy6dYKG8NMc14",
+  "model": "claude-opus-4-7",
+  "open_ai_api_key": "sk-relay-a75afc9cc84f917cc74bf7a468921a3e9a5084971f3b46d6",
+  "open_ai_api_base": "https://llmapi.pro",
+  "proxy": "",
+  "single_chat_prefix": [""],
+  "single_chat_reply_prefix": "",
+  "group_chat_prefix": ["@bot"],
+  "group_name_white_list": ["ALL_GROUP"],
+  "image_create_prefix": ["画", "画图"],
+  "conversation_max_tokens": 8000,
+  "expires_in_seconds": 3600,
+  "character_desc": "你是我的全能私人助理，可以回答问题，并且能够理解并处理定时任务和备忘录请求。",
+  "temperature": 0.7,
+  "subscribe_msg": "你好！我是你的私人助理。输入 #help 查看指令。",
+  "use_global_plugin_config": true,
+  "admin_password": "abcd2004"
+}
